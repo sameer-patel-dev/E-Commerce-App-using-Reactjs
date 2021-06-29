@@ -1,5 +1,5 @@
 
-# E-Commerece Application 
+# E-Commerce Application 
 
 This repository contains a very simple React E-Commerce Application which was my first project on ReactJS. The web application has simple features like adding a product to the cart, removing a product from the cart, clearing the cart completely. 
 
